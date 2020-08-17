@@ -1,6 +1,11 @@
 #include <stdio.h>
-
+#include <time.h>
 int main(void) {
-  printf("Hello World\n");
+
+  while (1){}
+  printf("amrmd\n");
+  sleep(1);
+  }
   return 0;
+  
 }
